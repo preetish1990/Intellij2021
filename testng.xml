@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/GUDU/Downloads/JavaSelenium">
+        <classes>
+            <class name="SeleniumBasics.TestNGFirst">
+                <methods>
+                    <include name="setUp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
